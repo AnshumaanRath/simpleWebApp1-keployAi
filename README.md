@@ -80,10 +80,11 @@ http://localhost:8080/swagger-ui.html
 
 
 
-Place your Keploy dashboard screenshot at:
+
 
 ```
-![image](https://github.com/user-attachments/assets/76dfcf7a-1747-4453-9307-8c3c99664ee0)
+![image](https://github.com/user-attachments/assets/2c85bcff-f8fa-43b0-b9f1-963af2332a09)
+
 
 ```
 
